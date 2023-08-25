@@ -6,25 +6,31 @@
 "link": "https://play.google.com/store/apps/details?id=com.pro.burmese_tv"
 },
 {
-"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/important_event.png",
-"title": "Version",
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/version.jpg",
+"title": "ဗားရှင်း",
 "subtitle": "1.0.7",
-"link": "Latest Version"
+"link": "ဗားရှင်း 1.0.7 ကို အသုံးပြုထားပါတယ်"
 },
 {
-"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/icons_messages.png",
-"title": "Message",
-"subtitle": "messenger",
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/messenger.png",
+"title": "မက်ဆေ့",
+"subtitle": "မက်ဆေ့ဂျာ",
 "link": "https://m.me/109810678671415"
 },
 {
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png",
-"title": "Facebook",
-"subtitle": "Facebook Page",
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/facebook.jpg",
+"title": "ဖေ့ဘုတ်",
+"subtitle": "ဖေ့ဘုပ့",
 "link": "https://www.facebook.com/profile.php?id=100089461360942"
 },
 {
-"image": "https://e1.pngegg.com/pngimages/974/699/png-clipart-movies-and-popcorn-folder-icon-movies-thumbnail.png",
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/playstore.jpg",
+"title": "ပလေးစတိုး",
+"subtitle": "ပလေးစတိုးမှာ ကြယ်ပေးမယ်",
+"link": "https://play.google.com/store/apps/details?id=com.pro.burmese_tv"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/movies.jpg",
 "title": "စာတန်းထိုး ရုပ်ရှင်များ",
 "subtitle": "Movies",
 "link": "movies"
