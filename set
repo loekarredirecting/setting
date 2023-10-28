@@ -8,8 +8,8 @@
 {
 "image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/version.jpg",
 "title": "ဗားရှင်း",
-"subtitle": "2.0.4",
-"link": "ဗားရှင်း 2.0.4 ကို အသုံးပြုထားပါတယ်"
+"subtitle": "2.0.5",
+"link": "ဗားရှင်း 2.0.5 ကို အသုံးပြုထားပါတယ်"
 },
 {
 "image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/messenger.png",
@@ -40,6 +40,24 @@
 "title": "စာတန်းထိုး ရုပ်ရှင်များ",
 "subtitle": "Myanmar Subtitle Movies",
 "link": "movies"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/movies.jpg",
+"title": "KBZ Pocket Money Password (1) ",
+"subtitle": "???",
+"link": "https://www.facebook.com/profile.php?id=100089461360942"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/movies.jpg",
+"title": "KBZ Pocket Money Password (2) ",
+"subtitle": "???",
+"link": "https://www.facebook.com/profile.php?id=100089461360942"
+},
+{
+"image": "https://raw.githubusercontent.com/Walonelay/hellosetting/main/movies.jpg",
+"title": "KBZ Pocket Money Password (3) ",
+"subtitle": "???",
+"link": "https://www.facebook.com/profile.php?id=100089461360942"
 }
 ]
 
